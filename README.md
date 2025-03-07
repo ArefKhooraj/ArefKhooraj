@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aref+Khooraj!+👋;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aref+Khooraj!+👋;I'm+.Net Developer+👋;" />
 </h1>
 
 # 💫 About Me:
-🔭 I’m currently working on Online Shop<br>👯 I’m looking to collaborate on Asp.Net Projects<br>🌱 I’m currently learning JavaScript <br>💬 Ask me about C# , Asp.net<br>
+🔭 I’m currently working on Asp.Net Projects<br>👯 I’m looking to collaborate on Asp.Net Projects<br>🌱 I’m currently learning Microservice <br>💬 Ask me about .Net Framework Technology<br>
 
 
 ## 🌐 Socials:
