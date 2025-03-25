@@ -3,7 +3,7 @@
 </h1>
 
 # 💫 About Me:
-🔭 I’m currently working on Asp.Net Projects<br>👯 I’m looking to collaborate on Asp.Net Projects<br>🌱 I’m currently learning Microservice <br>💬 Ask me about .Net Framework Technology<br>
+🔭 I’m currently working on Asp.Net Projects<br>🌱 I’m currently learning Microservice <br>💬 Ask me about .Net Technology<br>
 
 
 ## 🌐 Socials:
